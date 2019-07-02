@@ -3,7 +3,7 @@
 
 
 [项目预览](
-https://dellenshang.github.io/beffy-D/)
+https://dellenshang.github.io/lesson-homework/)
 
 更多可去[webpack官方指南](https://doc.webpack-china.org/guides/installation/)
 [项目本家](
